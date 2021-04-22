@@ -8,3 +8,5 @@ and more recently with desktop publishing software like Aldus PageMaker includin
 versions of Lorem Ipsum.
 
 this is an example
+
+see a new example in example2.txt
